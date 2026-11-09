@@ -154,3 +154,7 @@ python scripts/check_mcp.py --date 2026-10-26
 ```
 
 协议连接不调用模型 API，无需额外配置 API Key。Codex 的 MCP 配置方式见[官方文档](https://developers.openai.com/codex/mcp)。会话、原始诊断样本、任务状态及导出文件通过 `.gitignore` 排除。
+
+## 许可证
+
+本项目以 [MIT 许可证](LICENSE) 发布。
