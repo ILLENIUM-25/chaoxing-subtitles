@@ -1,0 +1,4 @@
+.local/
+subtitles/
+__pycache__/
+*.pyc
